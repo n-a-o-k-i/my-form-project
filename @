@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = git@github.com:n-a-o-k-i/my-form-project.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+  	useConfigOnly = true
+  	email = nao.rami.1124@i.softbank.jp
+  	name = n-a-o-k-i
