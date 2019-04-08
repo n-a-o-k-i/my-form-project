@@ -1,4 +1,5 @@
 # Vue.jsの勉強のためのリポジトリです
+##一般的なCRUD(Create, Read, Update, Delete)を持つTODO管理アプリ
 
 > A Vue.js project
 
