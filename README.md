@@ -1,4 +1,4 @@
-# my-form-project
+# Vue.jsの勉強のためのリポジトリです
 
 > A Vue.js project
 
